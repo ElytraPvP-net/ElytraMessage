@@ -1,0 +1,17 @@
+# Connects to the MySQL Database
+MySQL:
+  host: localhost
+  port: 3306
+  database: database
+  username: username
+  password: password
+  useSSL: true
+
+# The message sent when receiving a message.
+fromMessage: "&7(From &a%sender%&7) &f%message%"
+
+# The message sent when sending a message.
+toMessage: "&7(To &a%receiver%&7) &f%message%"
+
+# The message sent to anyone with social spy on.
+spyMessage: "&e(Spy) &7(&a%sender% &7-> &a%receiver%&7) &f%message%"

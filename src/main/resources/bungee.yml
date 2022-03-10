@@ -1,0 +1,9 @@
+name: ElytraMessage
+version: "1.0"
+main: net.elytrapvp.elytramessage.ElytraMessage
+description: Private Message plugin for ElytraPvP
+
+commands:
+  message:
+  reply:
+  socialspy:
